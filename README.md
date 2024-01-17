@@ -1,1 +1,0 @@
-# inventory-Manager system
