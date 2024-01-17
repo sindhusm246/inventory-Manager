@@ -117,6 +117,5 @@ Here I will explain the use of libraries that I have implemented in this project
 Anyone who can add above features, or can find or solve an issue feel free to contribute and also connect with me to work on new ideas.
 
 - [Github](https://github.com/Gitax18) 
-- [Instagram](https://www.instagram.com/lazydeveloper18/)
-- [LinkedIn](https://www.linkedin.com/in/gitanshu-sankhla/)
+
   
